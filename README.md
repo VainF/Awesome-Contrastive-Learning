@@ -12,7 +12,7 @@
 * [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849), Yonglong Tian, 2019, <[pytorch](https://github.com/HobbitLong/CMC/)>
 * [Representation learning with contrastive predictive coding](https://arxiv.org/abs/1807.03748), Aaron van den Oord, 2018, <[pytorch](https://github.com/jefflai108/Contrastive-Predictive-Coding-PyTorch)>
 
-### before 2018
+### Before 2018
 * [Adversarial Contrastive Estimation](https://arxiv.org/abs/1805.03642), Avishek Joey Bose, 2018,
 * [Contrastive Learning for Image Captioning](http://papers.nips.cc/paper/6691-contrastive-learning-for-image-captioning), Bo Dai, 2017, <[lua](https://github.com/doubledaibo/clcaption_nips2017)>
 * [Noise-contrastive estimation for answer selection with deep neural networks](https://dl.acm.org/doi/abs/10.1145/2983323.2983872), Jinfeng Rao, 2016
