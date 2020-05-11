@@ -33,7 +33,3 @@ Note: "*" denotes official implementation.
 * [Learning word embeddings efficiently with noise-contrastive estimation](http://papers.nips.cc/paper/5165-learning-word-embeddings), Andriy Mnih, NeurIPS-2013, 
 * [Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf?source=post_page---------------------------), Michael Gutmann, AISTATS 2010, [[pytorch](https://github.com/demelin/Noise-Contrastive-Estimation-NCE-for-pyTorch)]
 * [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf), Raia Hadsell, 2006
-
-
-
-
