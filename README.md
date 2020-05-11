@@ -3,10 +3,10 @@
 ### 2020
 * [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362), Prannay Khosla, 2020, <[pytorch](https://github.com/HobbitLong/SupContrast)>
 * [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709), Ting Chen, 2020, <[pytroch](https://github.com/sthalles/SimCLR)>
+* [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297), Xinlei Chen, 2020, <[tensorflow](https://github.com/ppwwyyxx/moco.tensorflow)>
 
 ### 2019
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722), Kaiming He, 2019, <[pytorch](https://github.com/HobbitLong/CMC/)>
-* [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297), Xinlei Chen, 2020, <[tensorflow](https://github.com/ppwwyyxx/moco.tensorflow)>
 * [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272), Olivier J. Hénaff, 2019
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699), Yonglong Tian, 2019 <[pytorch](https://github.com/HobbitLong/RepDistiller)>
 * [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849), Yonglong Tian, 2019, <[pytorch](https://github.com/HobbitLong/CMC/)>
