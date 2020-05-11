@@ -8,20 +8,24 @@ Note: "*" denotes official implementation.
 * [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297), Xinlei Chen, 2020, [[tensorflow](https://github.com/ppwwyyxx/moco.tensorflow)]
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699), Yonglong Tian, ICLR-2020 [[pytorch*](https://github.com/HobbitLong/RepDistiller)]
 
+
 ### 2019
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722), Kaiming He, 2019, [[pytorch](https://github.com/peisuke/MomentumContrast.pytorch)]
 * [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272), Olivier J. Hénaff, 2019
 * [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849), Yonglong Tian, 2019, [[pytorch*](https://github.com/HobbitLong/CMC/)]
 * [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670), R Devon Hjelm, ICLR-2019, [[pytorch](https://github.com/rdevon/DIM*)]
 
+
 ### 2018
 * [Representation learning with contrastive predictive coding](https://arxiv.org/abs/1807.03748), Aaron van den Oord, 2018, [[pytorch](https://github.com/jefflai108/Contrastive-Predictive-Coding-PyTorch)]
 * [Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](https://arxiv.org/abs/1805.01978), Zhirong Wu, CVPR-2018, [[pytorch*](https://github.com/zhirongw/lemniscate.pytorch)]
 * [Adversarial Contrastive Estimation](https://arxiv.org/abs/1805.03642), Avishek Joey Bose, ACL-2018,
 
+
 ### 2017
 * [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888), Pierre Sermanet, CVPR-2017
 * [Contrastive Learning for Image Captioning](http://papers.nips.cc/paper/6691-contrastive-learning-for-image-captioning), Bo Dai, NeurIPS-2017, [[lua*](https://github.com/doubledaibo/clcaption_nips2017)]
+
 
 ### Before 2017
 * [Noise-contrastive estimation for answer selection with deep neural networks](https://dl.acm.org/doi/abs/10.1145/2983323.2983872), Jinfeng Rao, 2016, [[torch](https://github.com/castorini/NCE-CNN-Torch)]
