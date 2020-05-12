@@ -14,7 +14,7 @@ Note: "*" denotes official implementation.
 * [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272), Olivier J. Hénaff, 2019
 * [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849), Yonglong Tian, 2019, [[pytorch*](https://github.com/HobbitLong/CMC/)]
 * [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670), R Devon Hjelm, ICLR-2019, [[pytorch](https://github.com/rdevon/DIM*)]
-* [Contrastive Adaptation Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf), Guoliang Kang, cvpr-2019
+* [Contrastive Adaptation Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf), Guoliang Kang, CVPR-2019
 
 
 ### 2018
