@@ -7,7 +7,6 @@ Note: "*" denotes official implementation.
 * [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709), Ting Chen, 2020, [[pytroch](https://github.com/sthalles/SimCLR), [tensorflow*](https://github.com/google-research/simclr)]
 * [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297), Xinlei Chen, 2020, [[tensorflow](https://github.com/ppwwyyxx/moco.tensorflow)]
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699), Yonglong Tian, ICLR-2020 [[pytorch*](https://github.com/HobbitLong/RepDistiller)]
-* [Contrastive Adaptation Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf), Guoliang Kang, cvpr-2019
 
 
 ### 2019
@@ -15,6 +14,7 @@ Note: "*" denotes official implementation.
 * [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272), Olivier J. Hénaff, 2019
 * [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849), Yonglong Tian, 2019, [[pytorch*](https://github.com/HobbitLong/CMC/)]
 * [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670), R Devon Hjelm, ICLR-2019, [[pytorch](https://github.com/rdevon/DIM*)]
+* [Contrastive Adaptation Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf), Guoliang Kang, cvpr-2019
 
 
 ### 2018
