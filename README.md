@@ -7,6 +7,7 @@ Note: "*" denotes official implementation.
 * [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709), Ting Chen, 2020, [[pytroch](https://github.com/sthalles/SimCLR), [tensorflow*](https://github.com/google-research/simclr)]
 * [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297), Xinlei Chen, 2020, [[tensorflow](https://github.com/ppwwyyxx/moco.tensorflow)]
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699), Yonglong Tian, ICLR-2020 [[pytorch*](https://github.com/HobbitLong/RepDistiller)]
+* [Contrastive Adaptation Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf), Guoliang Kang, cvpr-2019
 
 
 ### 2019
