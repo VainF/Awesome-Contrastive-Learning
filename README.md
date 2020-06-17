@@ -8,7 +8,7 @@ Note: "*" denotes official implementation.
 * [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297), Xinlei Chen, 2020, [[tensorflow](https://github.com/ppwwyyxx/moco.tensorflow)]
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699), Yonglong Tian, ICLR-2020 [[pytorch*](https://github.com/HobbitLong/RepDistiller)]
 * [COBRA: Contrastive Bi-Modal Representation Algorithm](https://arxiv.org/ftp/arxiv/papers/2005/2005.03687.pdf), Vishaal Udandarao, 2020
-* [What makes for good views for contrastive learning](What Makes for Good Views for Contrastive Learning?), Yonglong Tian, 2020
+* [What makes for good views for contrastive learning](https://arxiv.org/abs/2005.10243), Yonglong Tian, 2020
 * [Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/pdf/2005.04966.pdf), Junnan Li, 2020
 * [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/abs/2006.05582), Kaveh Hassani, 2020
 * [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659), John M. Giorgi, 2020
