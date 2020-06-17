@@ -7,7 +7,13 @@ Note: "*" denotes official implementation.
 * [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709), Ting Chen, 2020, [[pytroch](https://github.com/sthalles/SimCLR), [tensorflow*](https://github.com/google-research/simclr)]
 * [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297), Xinlei Chen, 2020, [[tensorflow](https://github.com/ppwwyyxx/moco.tensorflow)]
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699), Yonglong Tian, ICLR-2020 [[pytorch*](https://github.com/HobbitLong/RepDistiller)]
-
+* [COBRA: Contrastive Bi-Modal Representation Algorithm](https://arxiv.org/ftp/arxiv/papers/2005/2005.03687.pdf), Vishaal Udandarao, 2020
+* [What makes for good views for contrastive learning](What Makes for Good Views for Contrastive Learning?), Yonglong Tian, 2020
+* [Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/pdf/2005.04966.pdf), Junnan Li, 2020
+* [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/abs/2006.05582), Kaveh Hassani, 2020
+* [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659), John M. Giorgi, 2020
+* [On Mutual Information in Contrastive Learning for Visual Representations](https://arxiv.org/abs/2005.13149), Mike Wu, 2020
+* [Semi-Supervised Contrastive Learning with Generalized Contrastive Loss and Its Application to Speaker Recognition](https://arxiv.org/abs/2006.04326), Nakamasa Inoue, 2020
 
 ### 2019
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722), Kaiming He, 2019, [[pytorch](https://github.com/peisuke/MomentumContrast.pytorch)]
