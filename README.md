@@ -3,6 +3,7 @@
 Note: "*" denotes official implementation.
 
 ### 2020
+* [Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113), Phuc H. Le-Khac
 * [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362), Prannay Khosla, 2020, [[pytorch*](https://github.com/HobbitLong/SupContrast)]
 * [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709), Ting Chen, 2020, [[pytroch](https://github.com/sthalles/SimCLR), [tensorflow*](https://github.com/google-research/simclr)]
 * [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297), Xinlei Chen, 2020, [[tensorflow](https://github.com/ppwwyyxx/moco.tensorflow)]
