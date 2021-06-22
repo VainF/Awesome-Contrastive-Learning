@@ -17,9 +17,9 @@ Contrastive Representation Learning](https://arxiv.org/abs/2106.09943), Jordan T
 * [What makes for good views for contrastive learning](https://arxiv.org/abs/2005.10243), Yonglong Tian, 2020
 * [Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/pdf/2005.04966.pdf), Junnan Li, 2020
 * [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/abs/2006.05582), Kaveh Hassani, 2020
-* [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659), John M. Giorgi, 2020
 * [On Mutual Information in Contrastive Learning for Visual Representations](https://arxiv.org/abs/2005.13149), Mike Wu, 2020
 * [Semi-Supervised Contrastive Learning with Generalized Contrastive Loss and Its Application to Speaker Recognition](https://arxiv.org/abs/2006.04326), Nakamasa Inoue, 2020
+* [Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](https://arxiv.org/abs/2005.10242),Tongzhou Wang, ICML2020, [[pytorch](https://github.com/SsnL/align_uniform)*]
 
 ### 2019
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722), Kaiming He, 2019, [[pytorch](https://github.com/peisuke/MomentumContrast.pytorch)]
@@ -48,8 +48,19 @@ Contrastive Representation Learning](https://arxiv.org/abs/2106.09943), Jordan T
 * [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf), Raia Hadsell, 2006
 
 ## Natural Language Processing
-### 2021
+### 2021  
+* [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821), Tianyu Gao, 2021, [[pytorch](https://github.com/princeton-nlp/SimCSE)*]
+* [ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer](https://arxiv.org/abs/2105.11741), Yuanmeng Yan, ACL2021, [[pytorch](https://github.com/yym6472/ConSERT)*]
+* [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659), John Giorgi, ACL2021, [[pytorch](https://github.com/JohnGiorgi/DeCLUTR)*]
+* [Coco-lm: Correcting and contrasting text sequences
+for language model pretraining](https://arxiv.org/abs/2102.08473), Yu Meng, 2021,  [[pytorch](https://github.com/lucidrains/coco-lm-pytorch)*]
+* [Semantic Re-tuning with Contrastive Tension](https://openreview.net/forum?id=Ov_sMNau-PF), Fredrik Carlsson, ICLR2021, [[Tensorflow](https://github.com/FreddeFrallan/Contrastive-Tension)*]
+
+### 2020
+* [CLEAR: Contrastive Learning for Sentence Representation](https://arxiv.org/abs/2012.15466), Zhuofeng Wu, 2020
+* [An Unsupervised Sentence Embedding Method by Mutual Information Maximization](https://www.aclweb.org/anthology/2020.emnlp-main.124.pdf), Yan Zhang, EMNLP2020, [[pytorch](https://github.com/yanzhangnlp/IS-BERT)*]
+* [Cert: Contrastive self-supervised learning for language under- standing](), 
 
 ### Before 2017  
 
-* [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781), Tomas Mikolov, 2013 
+* [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781), Tomas Mikolov, ICLR-Workshop 2013 
