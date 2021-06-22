@@ -6,6 +6,7 @@ Note: "*" denotes official implementation.
 ### 2021
 * [Investigating the Role of Negatives in
 Contrastive Representation Learning](https://arxiv.org/abs/2106.09943), Jordan T. Ash, 2021
+* [Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation](https://arxiv.org/abs/2106.06801), Prashant Pandey, MICCAI-2021
 
 ### 2020
 * [Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113), Phuc H. Le-Khac
