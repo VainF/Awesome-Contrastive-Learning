@@ -2,6 +2,11 @@
 
 Note: "*" denotes official implementation.
 
+## Computer Vision
+### 2021
+* [Investigating the Role of Negatives in
+Contrastive Representation Learning](https://arxiv.org/abs/2106.09943), Jordan T. Ash, 2021
+
 ### 2020
 * [Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113), Phuc H. Le-Khac
 * [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362), Prannay Khosla, 2020, [[pytorch*](https://github.com/HobbitLong/SupContrast)]
@@ -41,3 +46,10 @@ Note: "*" denotes official implementation.
 * [Learning word embeddings efficiently with noise-contrastive estimation](http://papers.nips.cc/paper/5165-learning-word-embeddings), Andriy Mnih, NeurIPS-2013, 
 * [Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf?source=post_page---------------------------), Michael Gutmann, AISTATS 2010, [[pytorch](https://github.com/demelin/Noise-Contrastive-Estimation-NCE-for-pyTorch)]
 * [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf), Raia Hadsell, 2006
+
+## Natural Language Processing
+### 2021
+
+### Before 2017  
+
+* [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781), Tomas Mikolov, 2013 
