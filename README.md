@@ -6,6 +6,7 @@ Note: "*" denotes official implementation.
 ### 2021
 * [Investigating the Role of Negatives in
 Contrastive Representation Learning](https://arxiv.org/abs/2106.09943), Jordan T. Ash, 2021
+* [Contrastive Learning with Hard Negative Samples](https://arxiv.org/abs/2010.04592), Joshua Robinson, ICLR2021, [[pytorch](https://github.com/joshr17/HCL)*]
 
 ### 2020
 * [Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113), Phuc H. Le-Khac
