@@ -1,6 +1,6 @@
 # Awesome-Contrastive-Learning
 
-Note: "*" denotes official implementation.
+Note: "*" refers to official code.
 
 ## Computer Vision
 ### 2021
